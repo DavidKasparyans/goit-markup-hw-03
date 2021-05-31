@@ -11,12 +11,10 @@ body {
 
 .container {
     width: 1200px;
-    margin-left: 200px;
-    margin-right: 200px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 0 15px;
+    margin: 0 auto;
   }
-  section{
+  .section{
       padding-top: 94px;
       padding-bottom: 94px;
   }
